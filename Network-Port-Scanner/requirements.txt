@@ -1,0 +1,4 @@
+python>=3.10
+
+# No external dependencies required
+# Uses Python standard library only (tkinter, threading, json)
