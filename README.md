@@ -133,3 +133,9 @@ python main.py
 
 This tool is intended for educational purposes and authorized network testing only.
 Do not scan networks or devices without permission.
+
+## Usage
+
+```bash
+python3 main.py
+```
